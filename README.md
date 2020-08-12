@@ -12,3 +12,8 @@
 * H2 database (in memory) or any other DB
 * JDBC API
 
+### Use case
+* Home Page (Open to all)
+* User Page (Open to authenticated users only)
+* Admin Page (Open to authenticated users and admins only)
+
