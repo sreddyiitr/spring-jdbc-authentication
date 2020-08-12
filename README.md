@@ -4,6 +4,6 @@
 
 # spring-jdbc-authentication
 
-### This project is to learn user authentication using JDBC (user details are saved in a database)
+#### This project is to learn user authentication using JDBC (user details are saved in a database)
 
 
