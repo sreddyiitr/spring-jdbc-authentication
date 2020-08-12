@@ -6,4 +6,9 @@
 
 #### This project is to learn user authentication using JDBC (user details are saved in a database)
 
+### Dependencies
+* Spring web starter
+* Spring security starter
+* H2 database (in memory) or any other DB
+* JDBC API
 
